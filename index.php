@@ -1,5 +1,8 @@
 <?php
-echo "bem vindo php";
+
+
+echo "bem vindo php, ola mundo";
+
 
 ?>
 
